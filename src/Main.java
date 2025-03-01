@@ -13,5 +13,10 @@ public class Main {
         int resultado = x * y;
         System.out.println(resultado);
 
+        x = 3;
+        y = 2;
+        int subtracao = x - y;
+        System.out.println(subtracao);
+
     }
 }
