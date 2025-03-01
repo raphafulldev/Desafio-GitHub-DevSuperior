@@ -1,5 +1,12 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+
+        int a = 2;
+        int b = 3;
+
+        int soma = a + b;
+        System.out.println(soma);
+
     }
 }
