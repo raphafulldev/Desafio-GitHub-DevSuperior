@@ -8,5 +8,10 @@ public class Main {
         int soma = a + b;
         System.out.println(soma);
 
+        int x = 5;
+        int y = 4;
+        int resultado = x * y;
+        System.out.println(resultado);
+
     }
 }
